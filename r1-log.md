@@ -45,3 +45,30 @@ Fourth day of bootcamp:
  - variables
  - strings interpolation
  - Arrays
+
+ ### R1D5
+
+ Friday: First Hackaton of the course!
+ First #hackathon faced: A rock, scissors, paper game ⌨️
+We had to use everything we learned during the week to try to solve it: not finished yet. Despite this we had the chance to help and be helped by our coaches and colleagues 🤜🏽🤛🏽
+ Quiz: Javascript Basic concepts
+
+### R1D6
+
+  Javascript basic concepts recap at Freecodecamp
+
+### R1D7
+
+Javascript basic concepts recap:
+
+- Variables
+- Strings
+- Numbers
+- Booleans
+- Arrays
+- Functions
+Forks created for unfinished projects:
+- Password input
+- Rock, paper, scissors game
+
+### R1D8
