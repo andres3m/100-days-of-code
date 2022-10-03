@@ -72,3 +72,24 @@ Forks created for unfinished projects:
 - Rock, paper, scissors game
 
 ### R1D8
+
+Started the week 2 with the chance of give and receive Restrospective Feedback from my last week's partner:
+  - 3 formats:
+    - Mad, Sad, Glad
+    - Three Little pigs
+    - Start, Stop, Continue
+  -Democratic Discussion
+  -Who, What, When
+
+Met my new week partner
+
+Intro to codewars
+
+Intro to Document Object Model:
+- How to manipulate it with JS
+- How to style with JS
+
+Fun at the energizer: deck.of.cards
+
+
+### R1D9
