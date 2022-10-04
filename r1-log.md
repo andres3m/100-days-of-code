@@ -93,3 +93,15 @@ Fun at the energizer: deck.of.cards
 
 
 ### R1D9
+
+
+Event listeners 
+button.addEventListener("click", handleClick);
+input.addEventListener("change", handleChange);
+
+Piper Bates from cohort 4: 
+Course supouse to be hard, that’s the point
+We don’t have to know everything
+
+Kyle & Spencer visit > 80% employment rate
+
