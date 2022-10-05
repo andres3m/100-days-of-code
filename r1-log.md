@@ -104,4 +104,21 @@ Course supouse to be hard, that’s the point
 We don’t have to know everything
 
 Kyle & Spencer visit > 80% employment rate
+Codewars practice
+
+
+### R1D10
+
+#100DaysOfCode Day 10!
+
+Today we started the day with an introduction to Asynchornus Code
+Two methods: setTimeout setInterval
+Workshop: To make a seconds clock work using setInterval method
+Introduction to Fetch API 
+fetch() method provides an easy, logical way to fetch resources asynchronously across the network.
+JSON statements: JavaScript Object Notation
+Promise: Pending: Resolved or Rejected
+Always await a promise
+Met my mentor! Two valuable lessons: Be resilient, don't panic, Nail JS
+
 
