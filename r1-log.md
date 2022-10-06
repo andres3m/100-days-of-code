@@ -122,3 +122,11 @@ Always await a promise
 Met my mentor! Two valuable lessons: Be resilient, don't panic, Nail JS
 
 
+### R1D11
+
+#100DaysOfCode Day 11
+
+Today Joseph Trodden gave us a talk about cognitive diversity (our different abilities) and why it's one of the most powerful elements of a team.
+Clashes can happen because of style, not intent.
+Find data in objects workshop
+Team Research and presentation of: Chrome web developer tools.
