@@ -130,3 +130,31 @@ Today Joseph Trodden gave us a talk about cognitive diversity (our different abi
 Clashes can happen because of style, not intent.
 Find data in objects workshop
 Team Research and presentation of: Chrome web developer tools.
+
+### R1D12
+
+#100DaysOfCode Day 12
+
+Hackathon day 🏃🏽‍♂️
+Pokédex 🕹 webpage building project.
+Fun but challenging and not finished yet.
+We learned the importance of prioritising tasks, changing a plan on time and being aware of our weaknesses to keep working on these and improve over the time.
+
+### R1D13
+
+#100DaysOfCode Day 13
+
+Not much time for coding as the life requires my attention for the whole day.
+But very first thing in the morning: reflection about yesterday hackathon team project with a cleared mind: how could I did better as a teamplayer?
+How to find the balance between get the control of the tasks, share them and be a passive observant? and more.
+Took note of those to share with mentor and let be taught by experince. Forked and cloned unfinished tasks and setup of recovery plan.
+
+### R1D14
+
+#100DaysOfCode Day 14
+
+Recap day! I worked on the identified weekneses on the Javascript basics. Hadn't touched a single line of JS before the course has been noticeable as it has been a tough first two weeks
+We can't play a song if we don't know the necessary chords, so an afteroon practice has been really needed.
+#nevergiveup
+
+
