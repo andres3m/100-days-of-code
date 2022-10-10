@@ -158,3 +158,15 @@ We can't play a song if we don't know the necessary chords, so an afteroon pract
 #nevergiveup
 
 
+### R1D15
+
+Talk of Eni Bellver. Hackatons opportunity to practice collaboration.
+Q/A from Chris. Keep Planning, keep engaging. Trust the process.
+iLight Challengue
+AGILE approach. Requirements, plans and results are evaluated continuosly
+so teams have a natural mechanism for responding to change quicly.
+Minimun Viable Project, measure, learn build
+UI: design of the product. How product's interfaces look and function.
+UX: how this product do what I want to do. The begining of any project.
+Integrating UX and AGILE: Technically Feasible, Economically viable adn desirable for the user.
+Ten second intro.
