@@ -170,3 +170,35 @@ UI: design of the product. How product's interfaces look and function.
 UX: how this product do what I want to do. The begining of any project.
 Integrating UX and AGILE: Technically Feasible, Economically viable adn desirable for the user.
 Ten second intro.
+
+
+### R1D16
+
+#100DaysOfCode Day 16
+
+👾Started with codewars
+💭Learned, discussed, and practiced the first steps of the Design Process
+🟦Learnedabout  var()functions to insert the values of CSS variables
+⚔️Ended the day with a 
+JS Jam meeting with coaches, alumni and colleagues.
+
+At the Javascript Jam we played a Code & Conquer game, like Battleship but with several teams. It was fun to "conquer, attack and defend territory" using JS alongside Luke and Evgenii.
+Thanks to @TheMeahCat, Arshi and @theSchoolOfCode team for organising this activity!
+
+### R1D17
+
+#100daysOfCode Day 17
+
+Talk from guests J.Karim and A.Fairholm, who explained us the expectations of a company/professional candidate for a UI/UX role.
+Learned about elements and principles of design process 
+Prototype practice of a website for our "own bootcamp"🙌🏽
+
+### R1D18
+
+Frames for conversations: the importance of listening.
+4 Tents of deep listening: eye contact, presence, connection and nonverbal feedback.
+Alter egos
+
+FIGMA design: CSS Flexbox display: flex; gap.
+Talk from @p44v9n: UX Design = designing experiences for users: Storytelling, attention and wonder.
+UX Research: Information arqchitecture.
