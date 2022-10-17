@@ -194,7 +194,7 @@ Learned about elements and principles of design process
 Prototype practice of a website for our "own bootcamp"🙌🏽
 
 ### R1D18
-
+#100daysOfCode Day 18
 Frames for conversations: the importance of listening.
 4 Tents of deep listening: eye contact, presence, connection and nonverbal feedback.
 Alter egos
@@ -202,3 +202,26 @@ Alter egos
 FIGMA design: CSS Flexbox display: flex; gap.
 Talk from @p44v9n: UX Design = designing experiences for users: Storytelling, attention and wonder.
 UX Research: Information arqchitecture.
+
+### R1D19
+#100daysOfCode Day 19
+Guest talk from Ines. What a key insights as a Junior professional and also as a alumni bootcamper.
+Hackathon. UI/UX Design project, personas, user stories, slow and high fidelity wireframes of our own Bootcamp.
+
+### R1D20
+#100daysOfCode Day 20
+Recap of logic programming through mim0 app.
+
+### R1D21
+#100daysOfCode Day 21
+Clean code: Styling and Formatting Code: Naming and conventions, Indentation and spacing, brackets, comments and code formatters.
+Worked on the creation of personal website/ portfolio. Followed the Design Thinking Process and UX/UI planning we've covered this week
+Creation of user personas and user stories.
+
+### R1D22
+#100daysOfCode Day 22
+Debugging: step by step and systematic way.
+Node.js JS runtime environment embedded v8. Allow us to run JS on the server. 
+Module exporting/requiring.
+Destructuring.
+
