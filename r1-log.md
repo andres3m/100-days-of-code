@@ -224,4 +224,18 @@ Debugging: step by step and systematic way.
 Node.js JS runtime environment embedded v8. Allow us to run JS on the server. 
 Module exporting/requiring.
 Destructuring.
+Install Node.js and verify the version
+Create, import and export modules using CommonJS
+Import JSON data using CommonJS
+
+### R1D23
+#100daysOfCode Day 23
+
+node.js intro to core modules: Read and write to files using the fs module
+Use uuid (a third-party package) to generate unique ids
+Serialize and deserialize data using the JSON.parse and JSON.stringify methods
+Learned the functionality of the .gitignore file
+Different helper functions which will enable the user to: add, get, edit and delete
+Intro To Express.js Simple app that starts a server and listens on port 3000 for connections.
+The app responds with “Hello World!” for requests to the root URL (/) or route
 
