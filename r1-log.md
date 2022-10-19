@@ -239,3 +239,12 @@ Different helper functions which will enable the user to: add, get, edit and del
 Intro To Express.js Simple app that starts a server and listens on port 3000 for connections.
 The app responds with “Hello World!” for requests to the root URL (/) or route
 
+
+### R1D24
+#100daysOfCode Day 24
+
+Codewars katas 
+Api creation with express.js 
+HTTP methods: Ceate(POST), Read(GET), Update(PUT, PATCH), Delete(DELETE)
+Nodemon: tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+Postman: development tool which helps to build, test and modify APIs
