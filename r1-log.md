@@ -248,3 +248,12 @@ Api creation with express.js
 HTTP methods: Ceate(POST), Read(GET), Update(PUT, PATCH), Delete(DELETE)
 Nodemon: tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 Postman: development tool which helps to build, test and modify APIs
+
+
+### R1D25
+#100daysOfCode Day 25
+
+Great mindest session identifying the form of our Inner Critic & understanding its reasons and understanding the value of our Inner Champion, and when it can be relied upon to help us on day-to-day.
+Express and middleware chain, custom middleware and 3rd party middleware, like morgan.
+Static files in API.
+Intro to routing paths and models functions.
