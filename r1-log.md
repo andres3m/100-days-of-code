@@ -257,3 +257,44 @@ Great mindest session identifying the form of our Inner Critic & understanding i
 Express and middleware chain, custom middleware and 3rd party middleware, like morgan.
 Static files in API.
 Intro to routing paths and models functions.
+
+### R1D26
+#100daysOfCode Day 26
+
+Hackathon day 🚀
+-Guest talk from Dave Adams who gave us an insight of a SRE role
+-We had to build a #backend application which function as an API and also serve an HTML page
+Still a lot to learn but thanks to my week's partners we managed to complete it
+
+### R1D27
+#100daysOfCode Day 27
+JS Fundamentals recap trhough SOLO app
+
+### R1D28
+#100daysOfCode Day 28
+Working on the creation API routes and models.
+
+### R1D29
+#100daysOfCode Day 29
+Talk from Stuart Langridge, reminding us why web is important, giving us key advice of how to spot red flags on companies, refering work to people, write tests, personal projects building, how to be a better person to work with, 
+Unions for developers, the value of public speaking and he shared his amazing game.
+Intro to Databases, CRUD functions, SQL, structure query language. SELECT, INSERT INTO, UPDATE, and DELETE statments and WHERE clause.
+
+### R1D30
+#100daysOfCode Day 30
+
+First time selected to do 10 seconds intro T.T
+Inspiring Talk from Katie Hawcutt: Find work life, balance. Open mind, keep learning from good people. No undervalue transfered skills. Tech meet ups build a community. After bootcamp, keep working on projects, keep meeting mentor after the school if possible.
+SQL Joins clauses: INNER JOIN, LEFT OUTER JOIN, RIGHT OUTHER JOIN, FULL OUTER JOIN.
+Solved murder mistery in SQL city!
+
+### R1D31
+#100daysOfCode Day 31
+
+Elephant SQL.
+Environmnet variables.
+node-postgres
+connection pools
+A parameterized query is a query in which placeholders are used for parameters and the parameter values are supplied at execution time. The most important reason to use parameterized queries is to avoid SQL injection attacks.
+
+
