@@ -511,16 +511,30 @@ A parameterized query is a query in which placeholders are used for parameters a
 
 
 ### R1D85
-#100daysOfCode Day
+#100daysOfCode Day 85
+
+•Had a guest talk about the stages of CI/CD
+•First contact with #AWS 
+•Completed the build and hosting of a 'Todo' full stack app tutorial with #Amplify CLI
 
 
 ### R1D86
-#100daysOfCode Day
+#100daysOfCode Day 86
 
+•Received advice on CV preparation, LinkedIn profile and application process from Lili 
+@WeAreSpinks
+•Explored #Nextjs, #Gastby and #Remix frameworks and gave a try to last one
+Several new concepts  that worth spend more time exploring 💻
 
 ### R1D87
-#100daysOfCode Day
-
+#100daysOfCode Day 87
+Today I learned how:
+• to build a professional LinkedIn profile thanks to Lili from 
+@WeAreSpinks
+• to do a learning audit and setup a learning  plan for reinforce learned knowledge and be ready for the upcoming one thanks to 
+@theSchoolOfCode
+ • I would like to thank 
+@lakorthus for gave several of us the firsts insights of Tailwind CSS and show us how useful is daisyUI plugin to quickly and easily build complex UI layouts and designs. Your passion is contagious bro!
 
 ### R1D88
 #100daysOfCode Day
