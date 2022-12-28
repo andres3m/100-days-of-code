@@ -119,7 +119,7 @@ fetch() method provides an easy, logical way to fetch resources asynchronously a
 JSON statements: JavaScript Object Notation
 Promise: Pending: Resolved or Rejected
 Always await a promise
-Met my mentor! Two valuable lessons: Be resilient, don't panic, Nail JS
+Met my mentor! Three valuable lessons: Be resilient, don't panic, Nail JS
 
 
 ### R1D11
@@ -537,32 +537,49 @@ Today I learned how:
 @lakorthus for gave several of us the firsts insights of Tailwind CSS and show us how useful is daisyUI plugin to quickly and easily build complex UI layouts and designs. Your passion is contagious bro!
 
 ### R1D88
-#100daysOfCode Day
+#100daysOfCode Day 88
 
+Review and practice:
+
+• JS arrays, objects, loops and functions
+• Object properties access methods
+• Math methods
+• CSS flexbox
 
 ### R1D89
-#100daysOfCode Day
+#100daysOfCode Day 89
+
+Review and practice:
+
+• JS objects properties manipulation
+• RPS game build and refactoring from scratch
 
 
 ### R1D90
-#100daysOfCode Day
-
+#100daysOfCode Day 90
+•RPS game finished
 
 ### R1D91
-#100daysOfCode Day
+#100daysOfCode Day 91
 
+• Carrying-on on the JavaScript Algorithms and Data Structures course from Freecodecamp
+• Review and practice of DOM manipulation and events
 
 ### R1D92
-#100daysOfCode Day
-
+#100daysOfCode Day 92
+• Carrying-on DOM manipulation and events
+• Async code
+• Fetch Data
 
 ### R1D93
-#100daysOfCode Day
-
+#100daysOfCode Day 93
+• Data acessing
+• DOM manipulation practice
 
 ### R1D94
-#100daysOfCode Day
-
+#100daysOfCode Day 94
+• Pokédex app build using PokéApi to practice DOM manipulation, events and CSS flexbox
+A few months ago I really struggled with this project, but now I enjoyed working on it with the gained skills so far
 
 ### R1D95
 #100daysOfCode Day
