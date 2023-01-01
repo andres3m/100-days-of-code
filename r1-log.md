@@ -583,19 +583,21 @@ A few months ago I really struggled with this project, but now I enjoyed working
 
 ### R1D95
 #100daysOfCode Day
-
+• Pokédex app build. Created get image and name of a random pokemon and get those on all 100 pokemons functionalities
 
 ### R1D96
 #100daysOfCode Day
-
+• Pokédex app build. Thanks to Fas, a fellow bootcamper I learned how a quick way to style logos so I styled that one, the cards where the pokemons are displayed and the background
+• Attended a bootcamper meet up organised by Taylor and Lani and had a very good time with fellow bootcampers.
 
 ### R1D97
 #100daysOfCode Day
-
+• Pokédex app build. Added a function to display names with capital first letter and did some CSS changes.
 
 ### R1D98
 #100daysOfCode Day
-
+• Pokédex app build. A few CSS changes on the names of the displayed pokemons.
+• Agile methodology review, specifically, breaking down a project before the starting of the project month
 
 ### R1D99
 #100daysOfCode Day
