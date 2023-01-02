@@ -298,212 +298,8 @@ connection pools
 A parameterized query is a query in which placeholders are used for parameters and the parameter values are supplied at execution time. The most important reason to use parameterized queries is to avoid SQL injection attacks.
 
 
-### R1D32
-#100daysOfCode Day 32
-
-
-### R1D33
-#100daysOfCode Day
-
-
-### R1D34
-#100daysOfCode Day
-
-
-### R1D35
-#100daysOfCode Day
-
-
-### R1D36
-#100daysOfCode Day
-
-
-### R1D37
-#100daysOfCode Day
-
-
-### R1D38
-#100daysOfCode Day
-
-
-### R1D39
-#100daysOfCode Day
-
-
-### R1D40
-#100daysOfCode Day
-
-
-### R1D41
-#100daysOfCode Day
-
-
-### R1D42
-#100daysOfCode Day
-
-
-### R1D43
-#100daysOfCode Day
-
-
-### R1D44
-#100daysOfCode Day
-
-
-### R1D45
-#100daysOfCode Day
-
-
-### R1D46
-#100daysOfCode Day
-
-
-### R1D47
-#100daysOfCode Day
-
-
-### R1D48
-#100daysOfCode Day
-
-
-### R1D49
-#100daysOfCode Day
-
-
-### R1D50
-#100daysOfCode Day
-
-
-### R1D51
-#100daysOfCode Day
-
-
-### R1D52
-#100daysOfCode Day
-
-
-### R1D53
-#100daysOfCode Day
-
-
-### R1D54
-#100daysOfCode Day
-
-
-### R1D55
-#100daysOfCode Day
-
-
-### R1D56
-#100daysOfCode Day
-
-
-### R1D57
-#100daysOfCode Day
-
-
-### R1D58
-#100daysOfCode Day
-
-
-### R1D59
-#100daysOfCode Day
-
-
-### R1D60
-#100daysOfCode Day
-
-
-### R1D61
-#100daysOfCode Day
-
-
-### R1D62
-#100daysOfCode Day
-
-
-### R1D63
-#100daysOfCode Day
-
-
-### R1D64
-#100daysOfCode Day
-
-
-### R1D65
-#100daysOfCode Day
-
-
-### R1D66
-#100daysOfCode Day
-
-
-### R1D67
-#100daysOfCode Day
-
-
-### R1D68
-#100daysOfCode Day
-
-
-### R1D69
-#100daysOfCode Day
-
-
-### R1D70
-#100daysOfCode Day
-
-
-### R1D71
-#100daysOfCode Day
-
-
-### R1D72
-#100daysOfCode Day
-
-
-### R1D73
-#100daysOfCode Day
-
-
-### R1D74
-#100daysOfCode Day
-
-
-### R1D75
-#100daysOfCode Day
-
-
-### R1D76
-#100daysOfCode Day
-
-
-### R1D77
-#100daysOfCode Day
-
-
-### R1D78
-#100daysOfCode Day
-
-
-### R1D79
-#100daysOfCode Day
-
-
-### R1D80
-#100daysOfCode Day
-
-
-### R1D81
-#100daysOfCode Day
-
-
-### R1D82
-#100daysOfCode Day
-
-
-### R1D83
-#100daysOfCode Day
+### R1D32 - 83
+#100daysOfCode Day 32 to 83 in Notion personal notes.
 
 
 ### R1D84
@@ -574,7 +370,7 @@ Review and practice:
 ### R1D93
 #100daysOfCode Day 93
 • Data acessing
-• DOM manipulation practice
+• DOM manipulation practice 
 
 ### R1D94
 #100daysOfCode Day 94
@@ -582,25 +378,26 @@ Review and practice:
 A few months ago I really struggled with this project, but now I enjoyed working on it with the gained skills so far
 
 ### R1D95
-#100daysOfCode Day
+#100daysOfCode Day 95
 • Pokédex app build. Created get image and name of a random pokemon and get those on all 100 pokemons functionalities
 
 ### R1D96
-#100daysOfCode Day
+#100daysOfCode Day 96
 • Pokédex app build. Thanks to Fas, a fellow bootcamper I learned how a quick way to style logos so I styled that one, the cards where the pokemons are displayed and the background
 • Attended a bootcamper meet up organised by Taylor and Lani and had a very good time with fellow bootcampers.
 
 ### R1D97
-#100daysOfCode Day
+#100daysOfCode Day 97
 • Pokédex app build. Added a function to display names with capital first letter and did some CSS changes.
 
 ### R1D98
-#100daysOfCode Day
+#100daysOfCode Day 98
 • Pokédex app build. A few CSS changes on the names of the displayed pokemons.
 • Agile methodology review, specifically, breaking down a project before the starting of the project month
 
 ### R1D99
-#100daysOfCode Day
+#100daysOfCode Day 99
+• AGILE, Scrum and Kanban methodologies review prior to the starting of the project month. Tomorrow it begins, let's go for it!
 
 
 ### R1D100
