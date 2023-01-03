@@ -401,5 +401,19 @@ A few months ago I really struggled with this project, but now I enjoyed working
 
 
 ### R1D100
-#100daysOfCode Day
+Day 100🎉
+Finally I have completed the #100daysOfCode challenge. It's been intensive and thanks to #SchoolOfCode I have learned:
+• Javascript
+• UI/UX
+• AGILE methodologies, retrospectives and review
+• Node.js and Express.js
+• SQL Databases
+• Jest, Cypress and Supertest
+• React
+• Typescript
+• Authentication
+• Amplify (AWS)
+• Next.js (today)
+and much more!
+Now I'll focus on the project month ahead and start my round 2 in github.
 
